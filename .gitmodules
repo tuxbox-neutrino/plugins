@@ -16,6 +16,9 @@
 [submodule "logomask"]
 	path = logomask
 	url = ../cst-public-plugins-logomask.git
+[submodule "logoview"]
+	path = logoview
+	url = ../cst-public-plugins-logoview.git
 [submodule "ltris"]
 	path = ltris
 	url = ../cst-public-plugins-ltris.git
