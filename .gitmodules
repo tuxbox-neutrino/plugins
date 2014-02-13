@@ -40,3 +40,6 @@
 [submodule "tuxwetter"]
 	path = tuxwetter
 	url = ../cst-public-plugins-tuxwetter.git
+[submodule "scripts-lua"]
+	path = scripts-lua
+	url = ../cst-public-plugins-scripts-lua.git
