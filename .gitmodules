@@ -1,48 +1,48 @@
 [submodule "blockads"]
 	path = blockads
-	url = ../cst-public-plugins-blockads.git
+	url = ../plugin-blockads.git
 [submodule "getrc"]
 	path = getrc
-	url = ../cst-public-plugins-getrc.git
+	url = ../plugin-getrc.git
 [submodule "input"]
 	path = input
-	url = ../cst-public-plugins-input.git
+	url = ../plugin-input.git
 [submodule "lbreakout"]
 	path = lbreakout
-	url = ../cst-public-plugins-lbreakout.git
+	url = ../plugin-lbreakout.git
 [submodule "links"]
 	path = links
-	url = ../cst-public-plugins-links.git
+	url = ../plugin-links.git
 [submodule "logomask"]
 	path = logomask
-	url = ../cst-public-plugins-logomask.git
+	url = ../plugin-logomask.git
 [submodule "logoview"]
 	path = logoview
-	url = ../cst-public-plugins-logoview.git
+	url = ../plugin-logoview.git
 [submodule "ltris"]
 	path = ltris
-	url = ../cst-public-plugins-ltris.git
+	url = ../plugin-ltris.git
 [submodule "msgbox"]
 	path = msgbox
-	url = ../cst-public-plugins-msgbox.git
+	url = ../plugin-msgbox.git
 [submodule "shellexec"]
 	path = shellexec
-	url = ../cst-public-plugins-shellexec.git
+	url = ../plugin-shellexec.git
 [submodule "tuxcal"]
 	path = tuxcal
-	url = ../cst-public-plugins-tuxcal.git
+	url = ../plugin-tuxcal.git
 [submodule "tuxcom"]
 	path = tuxcom
-	url = ../cst-public-plugins-tuxcom.git
+	url = ../plugin-tuxcom.git
 [submodule "tuxmail"]
 	path = tuxmail
-	url = ../cst-public-plugins-tuxmail.git
+	url = ../plugin-tuxmail.git
 [submodule "tuxwetter"]
 	path = tuxwetter
-	url = ../cst-public-plugins-tuxwetter.git
+	url = ../plugin-tuxwetter.git
 [submodule "scripts-lua"]
 	path = scripts-lua
-	url = ../cst-public-plugins-scripts-lua.git
+	url = ../plugin-scripts-lua.git
 [submodule "cooliTSclimax"]
 	path = cooliTSclimax
-	url = ../cst-public-plugins-cooliTSclimax.git
+	url = ../plugin-cooliTSclimax.git
