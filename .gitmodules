@@ -45,4 +45,4 @@
 	url = ../plugin-scripts-lua.git
 [submodule "cooliTSclimax"]
 	path = cooliTSclimax
-	url = ../plugin-cooliTSclimax.git
+	url = ../plugin-coolitsclimax.git
