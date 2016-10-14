@@ -43,6 +43,6 @@
 [submodule "scripts-lua"]
 	path = scripts-lua
 	url = ../plugin-scripts-lua.git
-[submodule "coolitsclimax"]
-	path = coolitsclimax
-	url = ../plugin-coolitsclimax.git
+[submodule "cooliTSclimax"]
+	path = cooliTSclimax
+	url = ../plugin-cooliTSclimax.git
