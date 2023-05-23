@@ -48,4 +48,4 @@
 	url = ../plugin-cooliTSclimax.git
 [submodule "sysinfo"]
 	path = sysinfo
-	url = git@github.com:tuxbox-neutrino/plugin-sysinfo.git
+	url = ../plugin-sysinfo.git
