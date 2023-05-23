@@ -46,3 +46,6 @@
 [submodule "cooliTSclimax"]
 	path = cooliTSclimax
 	url = ../plugin-cooliTSclimax.git
+[submodule "sysinfo"]
+	path = sysinfo
+	url = ../plugin-sysinfo.git
